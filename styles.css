@@ -1,0 +1,49 @@
+
+
+
+header {
+    text-align: center;
+}
+section{
+    padding-top: 45px;
+    background: lightgrey;
+}
+.PostDIV {
+    background-color: white;
+    width: 550px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: grey;
+}
+div.header{
+    padding: 5px;
+    display: inline-flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+div.header h2{
+    padding: 5px;
+    margin: 0px;
+}
+div.header .date{
+    float: right;
+    margin: 0px;
+    padding: 10px;
+    margin-left: 270px;
+    
+}
+div.desc{
+    padding: 5px;
+}
+
+img {
+ width: 100%;
+}
+
+body {
+margin: 0;
+}
+
